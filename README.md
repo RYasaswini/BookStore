@@ -1,6 +1,6 @@
-# Bookstore Management System
+# Bookstore Application
 
-This Bookstore Management System (BMS) is a MERN full-stack application designed to streamline the operations of a bookstore. It features functionalities for browsing, purchasing, and managing books. The system allows users to log in and access specific functionalities tailored to their role.
+This Bookstore Application is a MERN full-stack application designed to streamline the operations of a bookstore. It features functionalities for browsing, purchasing, and managing books. The system allows users to log in and access specific functionalities tailored to their role.
 
 ## Table of Contents
 
