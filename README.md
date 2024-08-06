@@ -50,5 +50,8 @@ This Bookstore Management System (BMS) is a MERN full-stack application designed
 
 ### Clone the Repository:
 ```sh
-git clone https://github.com/your-username/bookstore-management-system.git
-cd bookstore-management-system
+git clone git@github.com:RYasaswini/BookStore.git
+cd BookStore
+
+
+
